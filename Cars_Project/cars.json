@@ -1,0 +1,102 @@
+[
+  {
+    "brand": "VW",
+    "model": "Golf 4",
+    "consumption": 0.1,
+    "plateNum": "CA5439PH",
+    "pricePerHour": 19,
+    "pricePerDay": 119,
+    "pricePerWeek": 2886,
+    "availability": true
+  },
+  {
+    "brand": "VW",
+    "model": "Passat 6",
+    "consumption": 0.1,
+    "plateNum": "PA7153ET",
+    "pricePerHour": 9,
+    "pricePerDay": 109,
+    "pricePerWeek": 2862,
+    "availability": true
+  },
+  {
+    "brand": "BMW",
+    "model": "420",
+    "consumption": 0.11,
+    "plateNum": "CC9223AB",
+    "pricePerHour": 29,
+    "pricePerDay": 509,
+    "pricePerWeek": 7526,
+    "availability": true
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "consumption": 0.41,
+    "plateNum": "PA9305KA",
+    "pricePerHour": 29,
+    "pricePerDay": 509,
+    "pricePerWeek": 8358,
+    "availability": true
+  },
+  {
+    "brand": "MERCEDES",
+    "model": "e220",
+    "consumption": 0.16,
+    "plateNum": "CA6264KT",
+    "pricePerHour": 29,
+    "pricePerDay": 509,
+    "pricePerWeek": 7857,
+    "availability": true
+  },
+  {
+        "brand": "MAZDA",
+        "model": "3",
+        "consumption": 0.14,
+        "plateNum": "B3144AA",
+        "pricePerHour": 29,
+        "pricePerDay": 229,
+        "pricePerWeek": 6458,
+    "availability": true
+      },
+  {
+        "brand": "AUDI",
+        "model": "A4",
+        "consumption": 0.08,
+        "plateNum": "PB6921TC",
+        "pricePerHour": 14,
+        "pricePerDay": 114,
+        "pricePerWeek": 1967,
+    "availability": true
+      },
+  {
+        "brand": "FORD",
+        "model": "F150",
+        "consumption": 0.30,
+        "plateNum": "A3031TE",
+        "pricePerHour": 34,
+        "pricePerDay": 314,
+        "pricePerWeek": 5766,
+    "availability": true
+      },
+  {
+        "brand": "INFINITY",
+        "model": "QX70",
+        "consumption": 0.09,
+        "plateNum": "CA2886BA",
+        "pricePerHour": 44,
+        "pricePerDay": 344,
+        "pricePerWeek": 9913,
+    "availability": true
+      },
+  {
+        "brand": "NISSAN",
+        "model": "TERRANO",
+        "consumption": 0.19,
+        "plateNum": "PB4298HB",
+        "pricePerHour": 64,
+        "pricePerDay": 264,
+        "pricePerWeek": 4875,
+    "availability": true
+        }
+]
